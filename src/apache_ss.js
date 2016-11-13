@@ -1,4 +1,4 @@
-asf = {
+var asf = {
     init: function() {
         console.log('Apache sever-status finer started');
         
