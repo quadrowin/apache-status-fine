@@ -14,5 +14,10 @@
         "matches": ["*://*/server-status"],
         "js": ["apache_ss.js"]
     }
+  ],
+  "permissions": [
+    "tabs",
+    "activeTab",
+    "<all_urls>"
   ]
 }
